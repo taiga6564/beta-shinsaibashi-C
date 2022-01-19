@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: aqua;
+    margin: 0;
+    width: auto;
+    height: 100px;
+    display: flex;
+}
+
+main{
+    height: 4000px;
+    width: auto;
+    background-color: rgb(190, 190, 190);
+    margin: 0;
+}
+
+footer{
+    height: 200px;
+    width: auto;
+    background-color:rgb(231, 231, 231);
+    margin: 0;
+}
+
+div{
+    margin: 0;
+}
+
+div.logo{
+    text-align: left;
+    height: auto;
+    width: 40%;
+    background-color: blue;
+}
+
+div.guidance{
+    text-align: right;
+    height: auto;
+    width: 60%;
+    background-color: aquamarine;
+    margin: none;
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+h1{
+    margin: 0;
+    height: auto;
+    width: auto
+}
+
+p{
+    color:yellowgreen;
+    margin: 0;
+}
